@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <declare-styleable name="ex">
+        <attr name="backgroundColor" format="color"/>
+        <attr name="secondBackgroundColor" format="color"/>
+        <attr name="thirdBackgroundColor" format="color"/>
+        <attr name="inverseColor" format="color"/>
+        <attr name="textColor" format="color"/>
+    </declare-styleable>
+    
+</resources>
