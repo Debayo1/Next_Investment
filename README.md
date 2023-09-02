@@ -43,4 +43,5 @@ Apache 2.0
 
 - Email: [adebayotosin0828@gmail.com]
 - X: [https://x.com/i_amdebayo]
+- Download Apk: [https://drive.google.com/file/d/1WozTJeNolJk2DILNJw0vOq0oQjly1KLN/view?usp=drivesdk]
 
